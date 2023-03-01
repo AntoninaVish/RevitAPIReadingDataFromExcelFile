@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIReadingDataFromExcelFile.dll"</Assembly>
+		
+		<AddInId>952326C5-B2AE-4EA1-AB45-2D00DD6FCA2F</AddInId>
+		<FullClassName>RevitAPIReadingDataFromExcelFile.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение данных из файла Excel для Revit</Text>
+	</AddIn>
+</RevitAddIns>
